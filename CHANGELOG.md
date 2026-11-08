@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Renamed the package from `@atta-hamamah/react-native-curved-tabbar` to `react-native-notch-tabbar`. No API changes: replace the import path and you are done.
+
 ## 0.1.0
 
 First public release.
